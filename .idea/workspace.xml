@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2faf046e-8733-488f-a620-f7a42d24512f" name="Default" comment="checkit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Lol.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="2faf046e-8733-488f-a620-f7a42d24512f" name="Default" comment="checkit" />
     <ignored path="checkerGO.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -54,8 +50,8 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1468481821000" expanded="true" signature="41026:41043" ph="..." />
-                <marker date="1468481821000" expanded="true" signature="41026:41061" ph="..." />
+                <marker date="1468481873000" expanded="true" signature="40618:40635" ph="..." />
+                <marker date="1468481873000" expanded="true" signature="40618:40653" ph="..." />
               </folding>
             </state>
           </provider>
@@ -703,12 +699,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1468478846057</updated>
-      <workItem from="1468478847496" duration="1099000" />
+      <workItem from="1468478847496" duration="1135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1099000" />
+    <option name="totallyTimeSpent" value="1135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -785,8 +781,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1468481821000" expanded="true" signature="41026:41043" ph="..." />
-            <marker date="1468481821000" expanded="true" signature="41026:41061" ph="..." />
+            <marker date="1468481873000" expanded="true" signature="40618:40635" ph="..." />
+            <marker date="1468481873000" expanded="true" signature="40618:40653" ph="..." />
           </folding>
         </state>
       </provider>
